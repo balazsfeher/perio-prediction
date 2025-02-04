@@ -1,5 +1,5 @@
 # Machine learning predicts patient clinical responses to periodontal treatment
-Submitted to the Journal of Clinical Periodontology
+Submitted to the Journal of Periodontology
 
 Balazs Feher, Eduardo H. de Souza Oliveira, Poliana Duarte, Andreas A. Werdich, William V. Giannobile, Magda Feres\
 Harvard School of Dental Medicine
